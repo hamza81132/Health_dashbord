@@ -2,7 +2,7 @@ import Activity from "./Activity";
 import AppointmentCard from "./AppointmentCard";
 import Calendar from "./Calendar";
 import HealthBars from "./HealthBars";
-import HumanBody from "./Humanbody";
+import HumanBody from "./HumanBody";
 import Schedule from "./Schedule";
 import TopBar from "./Topbar";
 
